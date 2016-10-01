@@ -1,0 +1,6 @@
+#inclde<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("hello welcome to cse dept");
+}
